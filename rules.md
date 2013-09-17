@@ -1,4 +1,4 @@
-# Pinoy I.T. Geeks
+# Pinoy I.T. Geeks Rules
 
 ### Authors
 * [rupaheizu](https://hakz.co/user/roop/profile)
