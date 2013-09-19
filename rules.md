@@ -30,6 +30,7 @@ Pinoy I.T. Geeks is a Knowledge and Skills Sharing Group about:
 * Begging for the following is not allowed
 * Generally anything that can be acquired with a simple Google search
 * Linking to warez/torrent sites are not allowed * you can Google them anyway *
+* Asking for likes in which the item is not related to IT/CS in general is prohibited
 
 ##### Social Etiquette
 * Observe free speech to the extent you're not threatening the person
