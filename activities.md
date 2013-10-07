@@ -6,7 +6,7 @@ This is a rough draft for group activities for members to partake in a weekly ba
 
 #### Currently what we have
 
-** Web Server Stack Development [A-001] : *C.C. >> Systems Architect, System Administrator, Stack Developer* **
+** Web Server Stack Development ** [A-001] : *C.C. >> Systems Architect, System Administrator, Stack Developer* 
 
 * Setting up Apache / Nginx / MySQL / NoSQL / Server Essentials
 * Maintaining server availability / scalability
