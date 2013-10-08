@@ -1,4 +1,4 @@
-# A-001 Common.NET   
+# A-002 Common.NET   
 
 ### Introduction
 
@@ -19,9 +19,23 @@ There will be two main directories - Common and Examples. Reusable class librari
 while implementation to demonstrate the usage of it will be in the Examples folder.
 
 Under each directory will have a sub-folder named after what version of Visual Studio it is made.
+FORMAT: /Common/src/{vs_version}/ | /Examples/{example_number}
 
-For example:
+Example:
+/Common/src/2012/Common.sln
+/Common/src/2010/Common.sln
 
+/Examples/001-LoginForm/2012/LoginForm.sln
+/Examples/001-LoginForm/2010/LoginForm.sln
+
+
+In terms of .NET framework, the following directory structure should be followed for the binaries:
+FORMAT: /Common/bin/{framework_version}
+
+Example:
+/Common/bin/2.0
+/Common/bin/3.5
+/Common/bin/4.0
 
 ### C.C.
 
@@ -29,4 +43,4 @@ For example:
 * Testers
 
 ### Mentors
-* [\A-001\] : [kimerran] (http://markhughneri.com)
+* [\A-002\] : [kimerran] (http://markhughneri.com)
