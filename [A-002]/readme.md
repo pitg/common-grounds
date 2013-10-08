@@ -20,16 +20,16 @@ while implementation to demonstrate the usage of it will be in the Examples fold
 
 Under each directory will have a sub-folder named after what version of Visual Studio it is made.
 ```
-FORMAT: /Common/src/{vs_version}/ | /Examples/{example_number}
+FORMAT: /Common/src/{vs_version}/{language} | /Examples/{example_number}/{vs_version}/{language}
 ```
 
 Example:
 ```
-/Common/src/2012/Common.sln
-/Common/src/2010/Common.sln
+/Common/src/2012/cs/Common.sln
+/Common/src/2010/vb/Common.sln
 
-/Examples/001-LoginForm/2012/LoginForm.sln
-/Examples/001-LoginForm/2010/LoginForm.sln
+/Examples/001-LoginForm/2012/cs/LoginForm.sln
+/Examples/001-LoginForm/2010/vb/LoginForm.sln
 ```
 
 In terms of .NET framework, the following directory structure should be followed for the binaries:
