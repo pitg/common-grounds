@@ -12,6 +12,13 @@ This is a rough draft for group activities for members to partake in a weekly ba
 * Maintaining server availability / scalability
 * Conceptualize applications from the complete backend for efficient frontend use
 
+**Kovios.NET** [A-002] : *C.C. >> VB .NET/C# Developers, Testers*
+
+* Object-oriented
+* Properly documented (in both English and Filipino)
+* Compatibility across versions of Visual Studio
+* Compatibility across versions of .NET Framework
+
 #### Contributing
 
 If you can come up with any kind of activities you can fork the repository and send a pull request for RFC regarding your proposed activity. Naming conventions must follow as *\[A-{Number after the last activity}\]*, a list of career choices or C.C., and a list of career tasks for the said activity.
@@ -20,3 +27,4 @@ If you can come up with any kind of activities you can fork the repository and s
 #### Mentors
 
 * \[A-001\] : [rupaheizu](https://twitter/rupaheizu) : Hakz Founder / Senior Developer
+* \[A-002\] : [kimerran](http://markhughneri.com)
