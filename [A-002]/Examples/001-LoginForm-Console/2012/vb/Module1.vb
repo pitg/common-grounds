@@ -20,7 +20,10 @@ Module Module1
         Dim cmd As SqlCommand
 
         ' Create connection object and pass connection string
-        con = New SqlConnection("")
+        con = New SqlConnection("Data Source=.\sqlexpress;Initial Catalog=KOIVOSNET;Integrated Security=True")
+
+        ' Open the connection
+        con.Open()
 
         ' Create command object and pass T-SQL command together with the connection object
         cmd = New SqlCommand("SELECT * FROM USERS WHERE Username=@Username AND Password=@Password", con)
@@ -38,6 +41,9 @@ Module Module1
         Else
             Console.WriteLine("Login failed.")
         End If
+
+        ' Pause
+        Console.Read()
 
     End Sub
 
