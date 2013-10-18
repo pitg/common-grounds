@@ -1,19 +1,8 @@
-﻿Imports System.Data
-Imports System.Data.SqlClient
+﻿Imports System.Data.SqlClient
 
-Module Module1
+Public Class Form1
 
-    Sub Main()
-
-        Dim username As String = ""
-        Dim password As String = ""
-
-        ' Ask for user input
-        Console.WriteLine("Enter your username: ")
-        username = Console.ReadLine()
-
-        Console.WriteLine("Enter your password: ")
-        password = Console.ReadLine()
+    Private Sub btnLogin_Click(sender As Object, e As EventArgs) Handles btnLogin.Click
 
         ' Define database connection and command
         Dim con As SqlConnection
@@ -29,22 +18,19 @@ Module Module1
         cmd = New SqlCommand("SELECT * FROM USERS WHERE Username=@Username AND Password=@Password", con)
 
         ' Neat way of passing parameters
-        cmd.Parameters.AddWithValue("@Username", username)
-        cmd.Parameters.AddWithValue("@Password", password)
+        cmd.Parameters.AddWithValue("@Username", txtUsername.Text)
+        cmd.Parameters.AddWithValue("@Password", txtPassword.Text)
 
         ' Execute the SQL command
         Dim dr As SqlDataReader = cmd.ExecuteReader()
 
         ' Check if a record match
         If dr.HasRows Then
-            Console.WriteLine("Login Successful!")
+            MsgBox("Login Successful!")
         Else
-            Console.WriteLine("Login failed.")
+            MsgBox("Login failed.")
         End If
-
-        ' Pause
-        Console.Read()
 
     End Sub
 
-End Module
+End Class
