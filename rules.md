@@ -38,6 +38,9 @@ Pinoy I.T. Geeks is a Knowledge and Skills Sharing Group about:
 * Spoon feeding is frowned upon *4*
 * READ THE THREAD before posting *5*
 
+##### Update
+* Post any code in pastebin or similar sites *6*
+
 ##### Re:Hacking
 * Any type of hacking that may be referred to as |cracking|&|black hat| are not allowed.
 * Hacking in which you're trying to improve something out of something is highly encouraged, this goes to, "improving and/or participating in the open source community"
@@ -58,3 +61,5 @@ Pinoy I.T. Geeks is a Knowledge and Skills Sharing Group about:
 4. We are entitled to learn things on our own, as we strive something that is harder. It will soon bear to fruit in the future. Remember the saying "Give a man a fish, and he will live for a day; Teach a man how to fish, and he will live for a lifetime".
 
 5. Please, by all means, learn how to read the thread before posting your reply to avoid re-bumping "SOLVED" threads and/or "reinventing the wheel" so to say.
+
+6. For the sake of readability of code, all codes should be posted on pastebin or similar sites for easy access.  It is difficult to read code that is not in the proper format.
