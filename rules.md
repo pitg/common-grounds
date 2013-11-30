@@ -1,25 +1,5 @@
 # Pinoy I.T. Geeks Rules
 
-### Authors
-* [rupaheizu](https://hakz.co/user/roop/profile)
-
-### About
-
-Pinoy I.T. Geeks is a Knowledge and Skills Sharing Group about:
-
-* Computer Programming Languages ( C++, Java, C#, VB6.0/.Net, Python, Assembly, etc.)
-* Web Development topics such as HTML, HTML5, CSS, JavaScript, PHP, and SQL.
-* Computer Hardware/Software Troubleshooting.
-* Networking Technology (Routers, Switches, Wireless Systems, Security Systems)
-* Datacenter and Virtualization (Unified System, Data Center Switching, Storage Networking and Cloud Computing Services)
-* Multimedia (Video/Photo/Sound Editing and Manipulating) Multimedia Tools such as Sony Vegas, Final Cut Pro, Photoshop, Dreamweaver, Flash , Premiere , After Effects, Flex, Fireworks, etc.
-* Mobile Technology, Programming and Troubleshooting. Ethical Hacking ( Infrastructure Protection, Web Application Security, Network Enumeration, Vulnerability Analysis, Penetration Testing, Database/Webserver Exploitation, Reverse Engineering ) 
-
-### Affiliations
-
-* Pinoy Hack News ( [Website](http://www.pinoyhacknews.com/) [Facebook](https://www.facebook.com/pinoyhacknews) )
-* Hakz Project ( [Website](https://hakz.co) )
-
 ### Rules
 
 ##### General Rules
@@ -28,7 +8,7 @@ Pinoy I.T. Geeks is a Knowledge and Skills Sharing Group about:
 * Do not spam the group with unrelated content *3*
 * Any kind of marketing is strictly forbidden
 * Begging for the following is not allowed
-* Generally anything that can be acquired with a simple Google search
+* Generally anything that can be acquired with a simple Google search *8*
 * Linking to warez/torrent sites are not allowed * you can Google them anyway *
 * Asking for likes in which the item is not related to IT/CS in general is prohibited
 
@@ -67,3 +47,4 @@ Pinoy I.T. Geeks is a Knowledge and Skills Sharing Group about:
 
 7. There have been cases of people using or should I say "invoking" the word "respect" on their respective post.  This is viewed as a gag against any frank but honest comment for the sake of just seeing the answers they want and avoid criticism.  Respect is something that will only be given and earned; not asked. Such use of the word will be deemed as offensive. 
 
+8. There are times that the user may have Google'd before asking questions into the group. To clarify this, simple questions are very specific questions in which that is absolutely no need to ask in the group.
