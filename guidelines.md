@@ -17,7 +17,7 @@ The rules are now known as guidelines from hence forth. The guidelines will expl
 
 3. When posting a question regarding programming, post your code in [Pastebin](http://pastebin.com) instead of posting it directly to the group discussion board.
 
-4. Before posting the questions make sure you've Googled your problem/question. Remember that Google is a friend if you know how to ask it in a way that, will respond to you the way you wanted it to be. A [guide](https://www.facebook.com/notes/pinoy-it-geeks/how-to-use-and-maximize-google/512001068881778) has been provided for further reading.
+4. Before posting questions make sure you've Googled your problem/question. Remember that Google is a friend if you know how to ask it in a way that, will respond to you the way you wanted it to be. A [guide](https://www.facebook.com/notes/pinoy-it-geeks/how-to-use-and-maximize-google/512001068881778) has been provided for further reading.
 
 5. Any technology related posts/questions are welcome. As for unrelated ones, we restrict them for a post in *n* intervals depending on trend.
 
