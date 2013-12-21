@@ -1,4 +1,5 @@
 # Pinoy I.T. Geeks Rules
+Read the (guidelines)[https://github.com/pitg/common-grounds/blob/master/guidelines.md] instead
 
 ### Rules
 
