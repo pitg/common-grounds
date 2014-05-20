@@ -2,16 +2,14 @@
 
 ### Introduction
 
-A lot of times in PITG we encounter students asking what's wrong in their code.
-How about making a template they can use as a guide on how to use commonly-used controls 
-and a reusable class library that can be utilized on problems and scenarios given in the academe or at work.
+κοινος in Greek means "mutual". This repository will include all .NET examples made by members of Pinoy I.T. Geeks for Pinoy IT Students/ Developers.
 
 ### Goals
 
 * Object-oriented
-* Properly documented (in both English and Filipino)
-* Compatibility across versions of Visual Studio
-* Compatibility across versions of .NET Framework
+* Properly documented (in Filipino)
+* To learn source-control along the way (GIT)
+
 
 ### Directory Structure
 
