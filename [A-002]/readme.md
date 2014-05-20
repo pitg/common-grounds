@@ -16,15 +16,17 @@
 All source code can be found at Examples folder
 
 Naming convention:
-
+`
 {ID}-{PROJECT_NAME}/{LANGUAGE}
+`
 
-Where:
-ID 				: 3-digit number
-PROJECT_NAME	: 
-LANGUAGE		: VB | CS | ANY_DOTNET_LANGUAGE
+Where:<br/>
+**ID** 				: 3-digit number<br/>
+**PROJECT_NAME**	: Name of the project sample <br/>
+**LANGUAGE**		: VB, CS or any .NET programming language<br/>
 
-Check the [Examples] (/Examples) directory for more info
+
+Check the **Examples** directory for more info
 
 ### C.C.
 
@@ -32,4 +34,4 @@ Check the [Examples] (/Examples) directory for more info
 * Testers
 
 ### Mentors
-* \[A-002\] : [kimerran] (http://markhughneri.com)
+* \[A-002\] : [kimerran] (http://github.com/kimerran)
