@@ -13,34 +13,18 @@
 
 ### Directory Structure
 
-There will be two main directories - Common and Examples. Reusable class libraries will be located in Common
-while implementation to demonstrate the usage of it will be in the Examples folder.
+All source code can be found at Examples folder
 
-Under each directory will have a sub-folder named after what version of Visual Studio it is made.
-```
-FORMAT: /Common/src/{vs_version}/{language} | /Examples/{example_number}/{vs_version}/{language}
-```
+Naming convention:
 
-Example:
-```
-/Common/src/2012/cs/Common.sln
-/Common/src/2010/vb/Common.sln
+{ID}-{PROJECT_NAME}/{LANGUAGE}
 
-/Examples/001-LoginForm/2012/cs/LoginForm.sln
-/Examples/001-LoginForm/2010/vb/LoginForm.sln
-```
+Where:
+ID 				: 3-digit number
+PROJECT_NAME	: 
+LANGUAGE		: VB | CS | ANY_DOTNET_LANGUAGE
 
-In terms of .NET framework, the following directory structure should be followed for the binaries:
-```
-FORMAT: /Common/bin/{framework_version}
-```
-
-Example:
-```
-/Common/bin/2.0
-/Common/bin/3.5
-/Common/bin/4.0
-```
+Check the [Examples] (/Examples) directory for more info
 
 ### C.C.
 
