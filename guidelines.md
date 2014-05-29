@@ -10,6 +10,8 @@ The rules are now known as guidelines from hence forth. The guidelines will expl
 
 4. Trolling : It's norm, get over it.
 
+5. Don't be a cry baby, you're only seeing the tip of the iceberg of the real world.
+
 ### Posting & Answering Content/Questions
 1. When posting questions, be sure that they are descriptive as possible, and make sure that no single important detail is left behind; Do not take vagueness into account like "who knows x, i have a problem". Ask intelligently to avoid flak from moderators or mainstays.
 
@@ -24,6 +26,11 @@ The rules are now known as guidelines from hence forth. The guidelines will expl
 6. Advertisements of sites are restricted to related content. Advertisements of groups is not allowed until sanctioned by the administrators.
 
 7. Begging for likes is strictly prohibited.
+
+8. Please refrain posting NSFW content to the community board to avoid being scolded by your bosses
+
+### Advertising
+You may only advertise tech related events, websites, etc. Any other advertisements will be removed on sight.
 
 ### Hacking
 All hacking topics are welcome except for blackhat related activities.
