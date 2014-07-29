@@ -29,6 +29,8 @@ The rules are now known as guidelines from hence forth. The guidelines will expl
 
 8. Please refrain posting NSFW content to the community board to avoid being scolded by your bosses
 
+9. It is better to answer inquiries through the thread not through private messages.
+
 ### Advertising
 You may only advertise tech related events, websites, etc. Any other advertisements will be removed on sight.
 
