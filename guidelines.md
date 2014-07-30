@@ -1,6 +1,9 @@
 # Pinoy I.T. Geeks' Guidelines
 The rules are now known as guidelines from hence forth. The guidelines will explain social etiquette regarding posts and moderation under the jurisdiction of the group.
 
+### How PITG runs?
+PITG is runned as a meritocracy, that is if you have credentials or accurate knowledge in a given IT field, you are most welcome to discuss, otherwise practice your preferred craft before you enter into a discussion.  [Meritocracy definition](http://en.wikipedia.org/wiki/Meritocracy)
+
 ### Speech & Opinion
 1. Ad Hominem : Simple speaking "to the person", it is a statement directed to the person instead to the argument. Just be reminded that in the event of flaks to whomever is involved; Do not resort to Ad hominem for the reason of prejudice. 
 
