@@ -20,7 +20,7 @@ PITG is runned as a meritocracy, that is if you have credentials or accurate kno
 
 2. Spoonfeeding has been frowned upon, you may only give hints to the asker and let them solve their own problem on their own. **EXCEPT AND IF** the problem cannot be reproduced or recently been solved, then lending a hand wouldn't be a problem.
 
-3. When posting a question regarding programming, post your code in [Pastebin](http://pastebin.com) instead of posting it directly to the group discussion board.
+3. When posting a question regarding programming, post your code in [Ideaone](http://ideone.com/) instead of posting it directly to the group discussion board.
 
 4. Before posting questions make sure you've Googled your problem/question. Remember that Google is a friend if you know how to ask it in a way that, will respond to you the way you wanted it to be. A [guide](https://www.facebook.com/notes/pinoy-it-geeks/how-to-use-and-maximize-google/512001068881778) has been provided for further reading.
 
