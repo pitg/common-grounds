@@ -15,6 +15,7 @@ Read the (guidelines)[https://github.com/pitg/common-grounds/blob/master/guideli
 
 ##### Social Etiquette
 * Observe free speech to the extent you're not threatening the person
+* Unwaranted trolling will be dealt with discretion
 * Try not to reply in bits, slug it out in one reply
 * Spoon feeding is frowned upon *4*
 * READ THE THREAD before posting *5*
