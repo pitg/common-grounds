@@ -13,11 +13,5 @@ Pinoy I.T. Geeks is a Knowledge and Skills Sharing Group about:
 * Mobile Technology, Programming and Troubleshooting. Ethical Hacking ( Infrastructure Protection, Web Application Security, Network Enumeration, Vulnerability Analysis, Penetration Testing, Database/Webserver Exploitation, Reverse Engineering ) 
 
 ## Authors
-* [rupaheizu](https://hakz.co/user/roop/profile)
+* [rmrhz](https://github.com/rmrhz)
 * [switchblade16](https://github.com/switchblade16)
-
-## Affiliations
-
-* PITG Q&A ( [Website](http://pitg.comx.ph/) )
-* Pinoy Hack News ( [Website](http://www.pinoyhacknews.com/) [Facebook](https://www.facebook.com/pinoyhacknews) )
-* Hakz Project ( [Website](https://hakz.co) )
