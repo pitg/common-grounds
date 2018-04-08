@@ -1,8 +1,8 @@
-# Pinoy I.T. Geeks
+# Pinoy I.T. Circlejerks
 
 ## About
 
-Pinoy I.T. Geeks is a Knowledge and Skills Sharing Group about:
+Pinoy I.T. Circlejerks is a Knowledge and Skills Sharing Group about:
 
 * Computer Programming Languages ( C++, Java, C#, VB6.0/.Net, Python, Assembly, etc.)
 * Web Development topics such as HTML, HTML5, CSS, JavaScript, PHP, and SQL.

@@ -1,4 +1,4 @@
-# Pinoy I.T. Geeks' Guidelines
+# Pinoy I.T. Circlejerks' Guidelines
 There is a saying that rules are never meant to be followed but serve as guidelines. Guidelines however are for maintaining the status quo.
 
 ### Overview
