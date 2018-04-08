@@ -14,4 +14,3 @@ Pinoy I.T. Circlejerks is a Knowledge and Skills Sharing Group about:
 
 ## Authors
 * [rmrhz](https://github.com/rmrhz)
-* [switchblade16](https://github.com/switchblade16)
